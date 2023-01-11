@@ -1,0 +1,8 @@
+{
+  "name": "neobbcli",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/nikhilvneoito/neobbcli",
+    "ssh": "git@github.com:nikhilvneoito/neobbcli.git"
+  }
+}
